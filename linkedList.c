@@ -1,3 +1,6 @@
+// Ysabel Dodson 
+// Chpt4 PA 
+
 #include <stdio.h>
 #include <stdlib.h>
 
